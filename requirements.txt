@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+librosa
+soundfile
+requests
+pandas
+indic-nlp-library
+langdetect
+tqdm
+jiwer
+numpy
